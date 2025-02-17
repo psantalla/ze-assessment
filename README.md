@@ -1,2 +1,30 @@
-# ze-assesment
-Convert a Figma design into a responsive web section with HTML &amp; CSS.
+# Web Developer Assessment – Zero Eight  
+
+## Objective  
+Convert the provided Figma design into a functional web section.  
+
+## Instructions  
+1. Complete the HTML file and link the necessary styles.  
+2. Submit your work as a `.zip` file named **candidate-name.zip** to [pablo@zeroeight.us](mailto:pablo@zeroeight.us).  
+3. Use the subject line: **Zero Eight – Web Developer Job Opening**.  
+
+## What We Evaluate  
+- **HTML semantics** – Proper structure and meaningful elements.  
+- **Class usage** – Clean, organized, and maintainable.  
+- **UX decisions** – How you handle missing breakpoints.  
+
+## Context  
+This exercise has **no strict time limit**, but it shouldn’t take more than **20 minutes** to complete. We’re looking for **precision and good decision-making**, not production-ready code—focus on structure and responsiveness rather than perfecting every detail. Once submitted, we aim to review your work within **72 hours**.  
+
+You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view the section to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available. The mobile and tablet versions got lost, so you’ll need to adapt the design responsively. The project notes suggest that a **1.19 typography scale** works well for mobile.  
+
+### Tech Guidelines  
+- Use **vanilla HTML and CSS**.  
+- You may use **any CSS framework** (e.g., Tailwind) or structure styles with **BEM** if you prefer.  
+- The implementation only needs to be **functional in Chromium-based browsers**. No testing will be done outside of this.  
+
+We’ve **blurred out other sections** in the design file to keep the focus on the one you need to implement. Stick to what’s provided—extra sections or structures won’t be considered.  
+
+Some aspects of the implementation allow for interpretation (not many, really), but if something isn’t specified, make a reasonable decision. We may discuss your approach in a review.  
+
+Looking forward to seeing what you come up with.
