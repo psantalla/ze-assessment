@@ -1,7 +1,7 @@
 # Web Developer Assessment – Zero Eight  
 
 ## Objective  
-Convert the provided Figma design into a functional web section.  
+Implement the provided Figma design as a functional and responsive web section.  
 
 ## Instructions  
 1. Complete the HTML file and link the necessary styles.  
@@ -16,7 +16,7 @@ Convert the provided Figma design into a functional web section.
 ## Context  
 This exercise has **no strict time limit**, but it shouldn’t take more than **20 minutes** to complete. We’re looking for **precision and good decision-making**, not production-ready code—focus on structure and responsiveness rather than perfecting every detail. Once submitted, we aim to review your work within **72 hours**.  
 
-You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view the section to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available. The mobile and tablet versions got lost, so you’ll need to adapt the design responsively. The project notes suggest that a **1.19 typography scale** works well for mobile.  
+You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view the section to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available. The mobile and tablet versions got lost, so you’ll need to **adapt the design to be fully responsive**. The project notes suggest that a **1.19 typography scale** works well for mobile.  
 
 ### Tech Guidelines  
 - Use **vanilla HTML and CSS**.  
