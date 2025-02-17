@@ -14,7 +14,7 @@ Implement the provided Figma design as a functional and responsive web section.
 - **UX decisions** – How you handle missing breakpoints.  
 
 ## Context  
-This exercise has **no strict time limit**, but it shouldn’t take more than **20 minutes** to complete. We’re looking for **precision and good decision-making**, not production-ready code—focus on structure and responsiveness rather than perfecting every detail. Once submitted, we aim to review your work within **72 hours**.  
+This exercise has **no strict time limit**, but it shouldn’t take more than **20 minutes** to complete. We’re looking for **precision in execution and good decision-making**—focus on a well-structured and scalable implementation. Once submitted, we aim to review your work within **72 hours**.  
 
 You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view the section to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available. The mobile and tablet versions got lost, so you’ll need to **adapt the design to be fully responsive**. The project notes suggest that a **1.19 typography scale** works well for mobile.  
 
