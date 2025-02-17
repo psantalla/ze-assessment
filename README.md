@@ -16,7 +16,10 @@ Implement the provided Figma design as a functional and responsive web section.
 ## Context  
 This exercise has **no strict time limit**, but it shouldn’t take more than **20 minutes** to complete. We’re looking for **precision in execution and good decision-making**—focus on a well-structured and scalable implementation. Once submitted, we aim to review your work within **72 hours**.  
 
-You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view the section to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available. The mobile and tablet versions got lost, so you’ll need to **adapt the design to be fully responsive**. The project notes suggest that a **1.19 typography scale** works well for mobile.  
+You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view the section to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available.  
+
+### Why?  
+Well… the mobile and tablet versions got lost. It happens. If this were a real project, you'd probably reach out to the designer—but in this case, you’ll need to **adapt the design to be fully responsive**. The project notes suggest that a **1.19 typography scale** works well for mobile, so that might be a good starting point.  
 
 ### Tech Guidelines  
 - Use **vanilla HTML and CSS**.  
@@ -24,6 +27,9 @@ You received a **`.fig` file in the project root** containing the design. Open i
 - The implementation only needs to be **functional in Chromium-based browsers**. No testing will be done outside of this.  
 
 We’ve **blurred out other sections** in the design file to keep the focus on the one you need to implement. Stick to what’s provided—extra sections or structures won’t be considered.  
+
+### Important Note  
+This is **not production code**, so aspects like performance optimization or extensive accessibility testing are not required. What matters is **how you approach the task**—the clarity of your structure, the maintainability of your styles, and how well your solution adapts to different screen sizes.  
 
 Some aspects of the implementation allow for interpretation (not many, really), but if something isn’t specified, make a reasonable decision. We may discuss your approach in a review.  
 
