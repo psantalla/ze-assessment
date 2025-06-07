@@ -1,36 +1,55 @@
-# Web Developer Assessment – Zero Eight  
+# Web Developer Assessment – Zero Eight
 
-## Objective  
-Implement the provided Figma design as a responsive layout.  
+**Fair warning:** We're looking for quality work here. If complex layouts aren't your thing yet, maybe pass on this one – but if you're up for it, let's see what you've got.
 
-## Instructions  
-1. Complete the HTML file and link the necessary styles.  
-2. Submit your work as a `.zip` file named **candidate-name.zip** to [pablo@zeroeight.us](mailto:pablo@zeroeight.us).  
-3. Use the subject line: **Zero Eight – Web Developer Job Opening**.  
+## Objective
+Implement the provided Figma design as a fully responsive layout.
 
-## What We Evaluate  
-- **HTML semantics** – Proper structure and meaningful elements.  
-- **Class usage** – Clean, organized, and maintainable.  
-- **UX decisions** – How you handle missing breakpoints.  
+## Instructions
+- Complete the HTML file and link the necessary styles
+- Submit your work as a .zip file named `candidate-name.zip` to pablo@zeroeight.us
+- Email subject: "Zero Eight – Web Developer Job Opening"
 
-## Context  
-This exercise has **no strict time limit**, but it shouldn’t take more than **20 minutes** to complete. We’re looking for **precision in execution and good decision-making**—focus on a well-structured and scalable implementation. Once submitted, we aim to review your work within **72 hours**.  
+## About using AI
+**Use ChatGPT/AI as much as you want** – seriously, go wild. Just remember: if you blindly copy-paste everything it gives you, you'll probably miss the details that actually matter to us. We care about **attention to detail** and **clean, semantic code**.
 
-You received a **`.fig` file in the project root** containing the design. Open it in **Figma** to view what you need to implement. Normally, you’d get desktop, tablet, and mobile versions, but this time only desktop is available.  
+If you get the design and know your way around CSS, you'll nail this. AI just won't catch every little thing we're looking for.
 
-### Why?  
-Well… the mobile and tablet versions got lost. It happens. If this were a real project, you'd probably reach out to the designer—but in this case, you’ll need to **implement a fully responsive version** without those additional viewports. The project notes suggest that a **1.19 typography scale** works well for mobile, so that might be a good starting point.  
+## Project context
+You've got a .fig file in the project root. Pop it open in Figma to see what needs building. Usually you'd get desktop, tablet, and mobile designs, but this time we only have desktop.
 
-## Tech Guidelines  
-- Use **vanilla HTML and CSS**.  
-- You may use **any CSS framework** (e.g., Tailwind) or structure styles with **BEM** if you prefer.  
-- The implementation only needs to be **usable in Chromium-based browsers**. No testing will be done outside of this.  
+**What happened?** The mobile and tablet versions vanished. Classic. In the real world you'd ping the designer, but here you get to figure out the responsive behavior yourself. 
 
-We’ve **blurred out other sections** in the design file to keep the focus on what you need to implement. Stick to what’s provided—extra sections or structures won’t be considered.  
+**Typography hints:**
+- Desktop: 1.25 scale with 16px base
+- Mobile: Try a 1.19 scale to keep things readable
 
-## Important Note  
-This is **not production code**, so aspects like performance optimizations aren’t a focus here. That said, a clean structure, good accessibility considerations, and proper handling of styles are definitely valued.  
+## Tech stuff
+- Vanilla HTML and CSS (or throw in Tailwind/BEM if that's your jam)
+- Only needs to work in Chromium browsers
 
-Some aspects of the implementation allow for interpretation (not many, really), but if something isn’t specified, make a reasonable decision. We may discuss your approach in a review.  
+## What we're looking for
 
-Looking forward to seeing what you come up with.
+### Good stuff
+- **Smart setup**: CSS variables for colors and typography that make sense
+- **Fluid typography**: Responsive text that scales nicely with those ratios
+- **Proper HTML**: Semantic structure that actually means something (hint: really look at that content)
+- **Clean code**: Organized classes and maintainable styles
+- **Smart decisions**: How you handle those missing breakpoints
+
+### Not so good
+- Copy-paste without thinking it through
+- Missing the design details
+- Messy, non-semantic code
+- Broken responsive behavior
+- Ignoring what the content structure is actually trying to tell you
+
+## What to expect
+Most things are pretty clear in the design, but if something's ambiguous, just make a reasonable call. We might chat about your choices later.
+
+**Heads up:** The way the content is structured in the design isn't random – your HTML should reflect that.
+
+**Time:** Should take around 30-40 minutes.
+**Feedback:** Within 72 hours.
+
+Ready? Let's see what you can do.
